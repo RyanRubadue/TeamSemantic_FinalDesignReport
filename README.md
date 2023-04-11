@@ -1,9 +1,9 @@
-1.  [Project Description](Assignments/ProjectDescription)
-2.  [User Interface Specification](Assignments/UserInterfaceSpecification)
-3.  [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf)
-4.  [User Manual](Assignments/User%20Manual.pdf)
-5.  [Spring Final PPT Presentation](Assignments/Spring%20Final%20PPT%20Presentation.pptx)
-6.  [Final Expo Poster](Assignments/Final%20EXPO%20Poster.pdf)
+1.  [Project Description](Assignments/ProjectDescription) 
+2.  [User Interface Specification](Assignments/UserInterfaceSpecification) 
+3.  [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf) 
+4.  [User Manual](Assignments/User%20Manual.pdf) 
+5.  [Spring Final PPT Presentation](Assignments/Spring%20Final%20PPT%20Presentation.pptx) 
+6.  [Final Expo Poster](Assignments/Final%20EXPO%20Poster.pdf) 
 7.  Assessments
     1. Initial Self-Assessments
      - Ryan Rubadue
