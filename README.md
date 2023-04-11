@@ -41,7 +41,7 @@
 6.  [Final Expo Poster](Assignments/Final%20EXPO%20Poster.pdf)
 
 7.  Assessments
-    1. [Yahya Emara] (Assignments/Assessments/Initial%20Self-Assessments/Yahya Emara.md)
+1. [Yahya Emara] (Assignments/Assessments/Initial%20Self-Assessments/Yahya Emara.md)
 9.  [Tristan Weger] (Assignments/Assessments/Initial%20Self-Assessments/Tristan Weger.md)
 10.  [Ryan Rubadue] (Assignments/Assessments/Initial%20Self-Assessments/Ryan Rubadue.md)
 11.  [Yahya Emara] (Assignments/Assessments/Final%20Self-Assessments/Yahya Emara.md)
