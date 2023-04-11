@@ -36,7 +36,7 @@
 
 4.  [User Manual](Assignments/User%20Manual.pdf)
 
-5.  [Spring Final PPT Presentation](Assignments/Spring Final PPT Presentation),
+5.  [Spring Final PPT Presentation](Spring%20Final%20PPT%20Presentation.pptx),
 
 6.  [Final Expo Poster](Final%20EXPO%20Poster.pdf)
 
