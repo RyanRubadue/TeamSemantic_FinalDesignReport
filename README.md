@@ -1,8 +1,5 @@
-1. [Team Names](CS5001_Assignments/TeamNames.md)
-2. [Project Description](CS5001_Assignments/ProjectDescription.md)
-3. User Stories and Design Diagrams
-    1. [User Stories](CS5001_Assignments/UserStories_DesignDiagrams/UserStories.md)
-    2. [Design Diagrams](CS5001_Assignments/UserStories_DesignDiagrams/DesignDiagrams.pdf)
+1. [Project Description](Assignments/ProjectDescription.md)
+2. [User Interface Specification](Assignments/UserInterfaceSpecification.md)
 4. Project Tasks and Timeline
     1. [Task List](CS5001_Assignments/ProjectTasksAndTimeline/TaskList.md)
     2. [Timeline](CS5001_Assignments/ProjectTasksAndTimeline/TimelineGhantChart.xlsx)
