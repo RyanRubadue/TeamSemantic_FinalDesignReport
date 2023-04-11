@@ -5,13 +5,13 @@
 5. [Spring Final PPT Presentation](Assignments/Spring%20Final%20PPT%20Presentation.pptx)
 6. [Final Expo Poster](Assignments/Final%20EXPO%20Poster.pdf)
 7. Initial Self-Assessments
-    - [Tristan Weger](Assignments/Initial%20Self-Assessments/TristanWeger.md)
-    - [Ryan Rubadue](Assignments/Initial%20Self-Assessments/RyanRubadue.md)
-    - [Yahya Emara](Assignments/Initial%20Self-Assessments/YahyaEmara.md)
+    - [Tristan Weger](Assignments/Assessments/Initial%20Self-Assessments/TristanWeger.md)
+    - [Ryan Rubadue](Assignments/Assessments/Initial%20Self-Assessments/RyanRubadue.md)
+    - [Yahya Emara](Assignments/Assessments/Initial%20Self-Assessments/YahyaEmara.md)
 8. Final Self-Assessments
-    - [Tristan Weger](Assignments/Final%20Self-Assessments/TristanWeger.md)
-    - [Ryan Rubadue](Assignments/Final%20Self-Assessments/RyanRubadue.md)
-    - [Yahya Emara](Assignments/Final%20Self-Assessments/YahyaEmara.md)
+    - [Tristan Weger](Assignments/Assessments/Final%20Self-Assessments/TristanWeger.md)
+    - [Ryan Rubadue](Assignments/Assessments/Final%20Self-Assessments/RyanRubadue.md)
+    - [Yahya Emara](Assignments/Assessments/Final%20Self-Assessments/YahyaEmara.md)
 
 
 
