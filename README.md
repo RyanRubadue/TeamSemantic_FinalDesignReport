@@ -30,7 +30,7 @@
 
 1.  [Project Description](Assignments/ProjectDescription)
 
-2.  [User Interface Specification](Assignments/User Interface Specification)
+2.  [User Interface Specification](Assignments/UserInterfaceSpecification)
 
 3.  [Test Plan and Results](Assignments/TestPlan and Results)
 
