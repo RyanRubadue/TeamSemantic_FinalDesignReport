@@ -1,5 +1,3 @@
-# TeamSemantic_FinalDesignReport
-
 ## Remove Before Submission: Status of Files
 
 1.  UPDATE Project Description (updated to include 400-character abstract and should reflect final version of the project)
@@ -26,7 +24,7 @@
 
 10. ADD Appendix
 
-
+## Table of Contents
 
 1.  [Project Description](Assignments/ProjectDescription)
 2.  [User Interface Specification](Assignments/UserInterfaceSpecification)
