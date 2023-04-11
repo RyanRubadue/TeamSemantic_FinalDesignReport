@@ -1,5 +1,5 @@
-1.  [Project Description](Assignments/ProjectDescription) 
-2.  [User Interface Specification](Assignments/UserInterfaceSpecification) 
+1.  [Project Description](Assignments/ProjectDescription.md) 
+2.  [User Interface Specification](Assignments/UserInterfaceSpecification.md) 
 3.  [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf) 
 4.  [User Manual](Assignments/User%20Manual.pdf) 
 5.  [Spring Final PPT Presentation](Assignments/Spring%20Final%20PPT%20Presentation.pptx) 
