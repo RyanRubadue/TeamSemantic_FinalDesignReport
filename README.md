@@ -34,7 +34,7 @@
 
 3.  [Test Plan and Results](Assignments/TestPlan and Results)
 
-4.  [User Manual]Assignments/User Manual)
+4.  [User Manual](Assignments/User%20Manual)
 
 5.  [Spring Final PPT Presentation](Assignments/Spring Final PPT Presentation),
 
