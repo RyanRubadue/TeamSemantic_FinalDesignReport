@@ -17,29 +17,6 @@
 11. [Appendix](Assignments/Appendix)
 
 
-
-
-1.  [Project Description](Assignments/ProjectDescription.md) 
-2.  [User Interface Specification](Assignments/UserInterfaceSpecification.md) 
-3.  [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf) 
-4.  [User Manual](Assignments/User%20Manual.pdf) 
-5.  [Spring Final PPT Presentation](Assignments/Spring%20Final%20PPT%20Presentation.pptx) 
-6.  [Final Expo Poster](Assignments/Final%20EXPO%20Poster.pdf) 
-7.  Assessments
-    1. Initial Self-Assessments
-     - [Tristan Weger](Assignments/Initial%20Self-Assessments/TristanWeger.md)
-     - [Ryan Rubadue](Assignments/Initial%20Self-Assessments/RyanRubadue.md)
-     - [Yahya Emara](Assignments/Initial%20Self-Assessments/YahyaEmara.md)
-    2. Final Self-Assessments
-     - Ryan Rubadue
-     - Yahya Emara
-     - Tristan Weger
-
-15. [Summary of Expenses](Assignments/Summary%20of%20Expenses)
-16. [Appendix](Assignments/Appendix)
-
-
-
 ## Remove Before Submission: Status of Files
 
 1.  UPDATE Project Description (updated to include 400-character abstract and should reflect final version of the project)
