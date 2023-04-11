@@ -29,8 +29,8 @@
 
 
 1.  [Project Description](Assignments/ProjectDescription)
-2.  
-3.  [User Interface Specification](Assignments/UserInterfaceSpecification)
+
+2.  [User Interface Specification](Assignments/UserInterfaceSpecification)
 4.  
 5.  [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf)
 6.  
