@@ -42,16 +42,11 @@
 
 7.  Assessments
 8.  [Yahya Emara] (Assignments/Assessments/Initial%20Self-Assessments/Yahya Emara.md)
-    2.  [Tristan Weger] (Assignments/Assessments/Initial%20Self-Assessments/Tristan Weger.md)
-    3.  [Ryan Rubadue] (Assignments/Assessments/Initial%20Self-Assessments/Ryan Rubadue.md)
-    1.  [Yahya Emara] (Assignments/Assessments/Final%20Self-Assessments/Yahya Emara.md)
-    2.  [Tristan Weger] (Assignments/Assessments/Final%20Self-Assessments/Tristan Weger.md)
-    3.  [Ryan Rubadue] (Assignments/Assessments/Final%20Self-Assessments/Ryan Rubadue.md) 
-
-
-
-8.  [Summary of Hours and Justification](Assignments/Summary%20of%20Hours%20and%20Justification)
-
-9.  [Summary of Expenses](Assignments/Summary%20of%20Expenses)
-
-10. [Appendix](Assignments/Appendix)
+9.  [Tristan Weger] (Assignments/Assessments/Initial%20Self-Assessments/Tristan Weger.md)
+10.  [Ryan Rubadue] (Assignments/Assessments/Initial%20Self-Assessments/Ryan Rubadue.md)
+11.  [Yahya Emara] (Assignments/Assessments/Final%20Self-Assessments/Yahya Emara.md)
+12.  [Tristan Weger] (Assignments/Assessments/Final%20Self-Assessments/Tristan Weger.md)
+13.  [Ryan Rubadue] (Assignments/Assessments/Final%20Self-Assessments/Ryan Rubadue.md) 
+14.    [Summary of Hours and Justification](Assignments/Summary%20of%20Hours%20and%20Justification)
+15. [Summary of Expenses](Assignments/Summary%20of%20Expenses)
+16. [Appendix](Assignments/Appendix)
