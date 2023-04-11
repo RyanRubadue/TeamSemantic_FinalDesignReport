@@ -12,6 +12,9 @@
     - [Tristan Weger](Assignments/Assessments/Final%20Self-Assessments/Tristan%20Weger.md)
     - [Ryan Rubadue](Assignments/Assessments/Final%20Self-Assessments/Ryan%20Rubadue.md)
     - [Yahya Emara](Assignments/Assessments/Final%20Self-Assessments/Yahya%20Emara.md)
+9. Summary of Hours and Justification
+10. [Summary of Expenses](Assignments/Summary%20of%20Expenses)
+11. [Appendix](Assignments/Appendix)
 
 
 
@@ -62,24 +65,3 @@
 9.  DONE Summary of Expenses
 
 10. ADD Appendix
-
-## Table of Contents
-
-1.  [Project Description](Assignments/ProjectDescription)
-2.  [User Interface Specification](Assignments/UserInterfaceSpecification)
-3.  [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf)
-4.  [User Manual](Assignments/User%20Manual.pdf)
-5.  [Spring Final PPT Presentation](Assignments/Spring%20Final%20PPT%20Presentation.pptx)
-6.  [Final Expo Poster](Assignments/Final%20EXPO%20Poster.pdf)
-7.  Assessments
-    1. Initial Self-Assessments
-     - Ryan Rubadue
-     - Yahya Emara
-     - Tristan Weger
-    2. Final Self-Assessments
-     - Ryan Rubadue
-     - Yahya Emara
-     - Tristan Weger
-
-15. [Summary of Expenses](Assignments/Summary%20of%20Expenses)
-16. [Appendix](Assignments/Appendix)
