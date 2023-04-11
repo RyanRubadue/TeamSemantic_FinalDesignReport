@@ -42,9 +42,15 @@
 
 7.  Assessments
 
-    1.  [Initial Self-Assessments](Assignments/Assessments/Initial%20Self-Assessments)
+    1.  Initial Self-Assessments
+        1.  [Yahya Emara] (Assignments/Assessments/Initial%20Self-Assessments/Yahya Emara.md)
+        2.  [Tristan Weger] (Assignments/Assessments/Initial%20Self-Assessments/Tristan Weger.md)
+        3.  [Ryan Rubadue] (Assignments/Assessments/Initial%20Self-Assessments/Ryan Rubadue.md)
 
-    2.  [Final Self-Assessments](Assignments/Assessments/Final%20Self-Assessments)
+    2.  Final Self-Assessments
+        1.  [Yahya Emara] (Assignments/Assessments/Final%20Self-Assessments/Yahya Emara.md)
+        2.  [Tristan Weger] (Assignments/Assessments/Final%20Self-Assessments/Tristan Weger.md)
+        3.  [Ryan Rubadue] (Assignments/Assessments/Final%20Self-Assessments/Ryan Rubadue.md) 
 
 8.  [Summary of Hours and Justification](Assignments/Summary%20of%20Hours%20and%20Justification)
 
