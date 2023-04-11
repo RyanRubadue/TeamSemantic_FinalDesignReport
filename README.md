@@ -32,22 +32,22 @@
 
 2.  [User Interface Specification](Assignments/UserInterfaceSpecification)
 
-3.  [Test Plan and Results](Assignments/TestPlan and Results)
+3.  [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf)
 
 4.  [User Manual](Assignments/User%20Manual.pdf)
 
 5.  [Spring Final PPT Presentation](Assignments/Spring Final PPT Presentation),
 
-6.  [Final Expo Poster](Final EXPO Poster)
+6.  [Final Expo Poster](Final%20EXPO%20Poster.pdf)
 
 7.  Assessments
 
-    1.  [Initial Self-Assessments](Assignments/Assessments/Initial Self-Assessments)
+    1.  [Initial Self-Assessments](Assignments/Assessments/Initial%20Self-Assessments)
 
-    2.  [Final Self-Assessments](Assignments/Assessments/Final Self-Assessments)
+    2.  [Final Self-Assessments](Assignments/Assessments/Final%20Self-Assessments)
 
-8.  [Summary of Hours and Justification](Assignments/Summary of Hours and Justification)
+8.  [Summary of Hours and Justification](Assignments/Summary%20of%20Hours%20and%20Justification)
 
-9.  [Summary of Expenses](Assignments/Summary of Expenses)
+9.  [Summary of Expenses](Assignments/Summary%20of%20Expenses)
 
 10. [Appendix](Assignments/Appendix)
