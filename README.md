@@ -29,24 +29,13 @@
 
 
 1.  [Project Description](Assignments/ProjectDescription)
-
 2.  [User Interface Specification](Assignments/UserInterfaceSpecification)
-
 3.  [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf)
-
 4.  [User Manual](Assignments/User%20Manual.pdf)
-
 5.  [Spring Final PPT Presentation](Assignments/Spring%20Final%20PPT%20Presentation.pptx),
-
 6.  [Final Expo Poster](Assignments/Final%20EXPO%20Poster.pdf)
-
 7.  Assessments
-1. [Yahya Emara] (Assignments/Assessments/Initial%20Self-Assessments/Yahya Emara.md)
-9.  [Tristan Weger] (Assignments/Assessments/Initial%20Self-Assessments/Tristan Weger.md)
-10.  [Ryan Rubadue] (Assignments/Assessments/Initial%20Self-Assessments/Ryan Rubadue.md)
-11.  [Yahya Emara] (Assignments/Assessments/Final%20Self-Assessments/Yahya Emara.md)
-12.  [Tristan Weger] (Assignments/Assessments/Final%20Self-Assessments/Tristan Weger.md)
-13.  [Ryan Rubadue] (Assignments/Assessments/Final%20Self-Assessments/Ryan Rubadue.md) 
-14.    [Summary of Hours and Justification](Assignments/Summary%20of%20Hours%20and%20Justification)
+1. [ryan]()
+
 15. [Summary of Expenses](Assignments/Summary%20of%20Expenses)
 16. [Appendix](Assignments/Appendix)
