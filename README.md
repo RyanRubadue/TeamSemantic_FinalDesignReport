@@ -1,3 +1,9 @@
+# Team Semantic
+### Yahya Emara, Tristan Weger, Ryan Rubadue
+### Advisor: Professor Ali Minai
+
+## Table of Contents
+
 1. [Project Description](Assignments/ProjectDescription.md)
 2. [User Interface Specification](Assignments/UserInterfaceSpecification.md)
 3. [Test Plan and Results](Assignments/TestPlan%20and%20Results.pdf) 
