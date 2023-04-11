@@ -33,7 +33,14 @@
 5.  [Spring Final PPT Presentation](Assignments/Spring%20Final%20PPT%20Presentation.pptx)
 6.  [Final Expo Poster](Assignments/Final%20EXPO%20Poster.pdf)
 7.  Assessments
-
+    1. Initial Self-Assessments
+     - Ryan Rubadue
+     - Yahya Emara
+     - Tristan Weger
+    2. Final Self-Assessments
+     - Ryan Rubadue
+     - Yahya Emara
+     - Tristan Weger
 
 15. [Summary of Expenses](Assignments/Summary%20of%20Expenses)
 16. [Appendix](Assignments/Appendix)
