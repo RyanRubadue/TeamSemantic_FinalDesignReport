@@ -38,7 +38,7 @@
 
 5.  DONE Spring Final PPT Presentation, 
 
-6.  DONEFinal Expo Poster
+6.  DONE Final Expo Poster
 
 7.  Assessments
 
@@ -50,4 +50,4 @@
 
 9.  DONE Summary of Expenses
 
-10. ADD Appendix
+10. DONE Appendix
