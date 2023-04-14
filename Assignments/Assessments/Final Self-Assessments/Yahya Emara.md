@@ -1,1 +1,8 @@
+## Final Self Reflection - Ryan Rubadue
 
+### Individual Contribution Summary
+
+During the development of the project, I played a crucial role in various stages. In the initial phase, I was responsible for researching and curating an appropriate dataset for training the model. I then took charge of filtering the data by identifying and implementing the cleanlab filtering technique, which proved to be effective in refining the dataset. As the project progressed, I shifted my focus to implementing the UMap algorithm. Additionally, I was responsible for integrating coherence score and word cloud algorithms into our project pipeline. Working closely with my team, we successfully ran multiple datasets to extract the necessary statistics and make comparisons for all the methods employed in the project.
+
+### Competencies and Skills Learned
+Throughout the course of this project, I acquired a diverse set of skills that greatly expanded my knowledge in the field of NLP. By working with PCA and embedding techniques, I gained proficiency in dimensionality reduction and learned how to manipulate long text documents effectively. My experience with text filtering using cleanlab and implementing various NLP and NLTK techniques provided me with a strong foundation in pre-processing and analyzing textual data. Additionally, I developed expertise in optimization and determining the optimal number of clusters and employing the Tf-Idf algorithm for feature extraction. Finally, the hands-on experience I gained in developing and evaluating the resulting word clouds enabled me to gain a deeper understanding of the visualization techniques used in NLP, further enhancing my skill set in the domain.
