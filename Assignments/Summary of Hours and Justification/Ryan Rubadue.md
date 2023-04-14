@@ -23,7 +23,7 @@
 - Due to the nature of the project relating to working on large datasets as well as the intensive computations our algorithm performed, our code was executed in an online compiler Colab. In our initial stages of the project, the algorithm would be run on George Washinton's speeches and would take ~15 minutes to fully execute. A total of 5 hours executing code is an extremely conservating estimate.
 
 ## Spring Semester
-- 30 hours running code.
+- 50 hours running code.
   As more intensive portions of code were added, the execution time of the algorithm continued to climb. For our application purposed, we eventually elected to perform our analysis on a modern set of presidents; Reagan through Trump was ultimately selected to be the set of presidents we would consider. Executing the entire logic on this would take over an hour, so 30 hours in a very conservative estimate on the total amount of time spent executing the code.
 - 5 hours analyzing data and results.
   There were several metrics our team needed to ensure were optimal that were used to optimize our algorithm. One example is the numerical cutoff for determining if text data is irrelevant/relevant to the rest of the text corpus. Several hours were spent analyzing figures/metrics to determine which values were optimal and if the results the algorithm was yielding were high quality. 
@@ -52,4 +52,4 @@
   During the spring semester our group continued to meet to coordinate tasks and discuss project design details. Meetings with our advisor were more often and occurred most weeks. 
 - 5 hours on assignments and poster.
 
-## Total: 180 Hours
+## Total: 200 Hours
