@@ -19,7 +19,7 @@
     - [Ryan Rubadue](Assignments/Assessments/Final%20Self-Assessments/Ryan%20Rubadue.md)
     - [Yahya Emara](Assignments/Assessments/Final%20Self-Assessments/Yahya%20Emara.md)
 9. Summary of Hours and Justification
-    - [Tristan Weger](Assignments/Summary%of%Hours%and%Justification/Tristan%20Weger.md)
+    - [Tristan Weger](Assignments/Summary of Hours and Justification/Tristan Weger.md)
     - [Ryan Rubadue](Assignments/Summary%of%Hours%and%Justification/Ryan%20Rubadue.md)
     - [Yahya Emara](Assignments/Summary%of%Hours%and%Justification/Yahya%20Emara.md)
 10. [Summary of Expenses](Assignments/Summary%20of%20Expenses.md)
